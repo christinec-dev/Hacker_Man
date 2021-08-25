@@ -10,7 +10,7 @@ A special thanks to the creators of the AsherPunk-Font, Consola-Font, Hacked-Ker
 
 Day four (which took two days!) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
 
-##FUTURE NOTE:
+### FUTURE NOTE:
 When I have time, I will make this app more responsive to different device sizes. Currently, it is only responsive on large devices such as a desktop screen.
 
 ## Video Preview
