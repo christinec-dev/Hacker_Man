@@ -10,6 +10,9 @@ A special thanks to the creators of the AsherPunk-Font, Consola-Font, Hacked-Ker
 
 Day four (which took two days!) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
 
+##FUTURE NOTE:
+When I have time, I will make this app more responsive to different device sizes. Currently, it is only responsive on large devices such as a desktop screen.
+
 ## Video Preview
 https://user-images.githubusercontent.com/87696858/130610232-1b7ae2e2-a7bf-4711-a71b-ae6131c7de04.mp4
 
@@ -24,9 +27,7 @@ https://user-images.githubusercontent.com/87696858/130610232-1b7ae2e2-a7bf-4711-
 ![screencapture-localhost-3000-2021-08-24-13_35_35 (1)](https://user-images.githubusercontent.com/87696858/130610361-6b1ceee4-4368-448d-ace1-3ab41215f412.png)
 ![screencapture-localhost-3000-2021-08-24-13_35_56](https://user-images.githubusercontent.com/87696858/130610318-15798604-3efc-4cea-ab02-86d5307585d4.png)
 
-###FUTURE NOTE:
-When I have time, I will make this app more responsive to different device sizes. Currently, it is only responsive on large devices such as a desktop screen.
-________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
