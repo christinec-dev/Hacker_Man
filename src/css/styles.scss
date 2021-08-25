@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;500;600;800;900&display=swap");
+body {
+  margin: 0 auto;
+  font-family: "Raleway", sans-serif;
+  text-align: center !important;
+}
+
+h1 {
+  font-weight: 700 !important;
+  margin-top: 1.1em !important;
+  text-transform: uppercase;
+  font-size: 50px !important;
+}
+
+.bracket {
+  background-color: rgba(65, 129, 212, 0.15) !important;
+  height: 30px;
+  width: 25% !important;
+  border-radius: 20px;
+  position: absolute;
+  margin-left: 37%;
+  z-index: 0;
+  margin-top: -30px;
+  box-shadow: 1px 1px #0347943a;
+}
+
+.intro-text {
+  font-weight: 200;
+  font-size: 25px;
+  padding: 20px;
+  margin-bottom: 0.1em !important;
+  margin-top: -0.8em !important;
+}
+
+h3 {
+  padding: 15px;
+  text-transform: uppercase;
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+
+.output {
+  background-color: white;
+}
+
+.compression-results {
+  outline: 20px solid #034694;
+  min-height: 250px;
+  max-width: 80% !important;
+  margin: 0 auto !important;
+  z-index: 2;
+}
+
+.original {
+  max-width: 100% !important;
+  padding: 10px;
+}
+
+.new {
+  max-width: 100% !important;
+  padding: 10px;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+.compressor-intro {
+  margin-top: 3em !important;
+  margin-bottom: 5em;
+  background-color: #034694;
+  border: 3px dashed #071e35;
+  border-spacing: 10px;
+  outline: 15px solid #013979;
+  height: 280px;
+  margin-left: 10% !important;
+  margin-right: 10% !important;
+}
+
+.filetype {
+  margin: auto;
+  text-align-last: center;
+}
+
+.upload-label {
+  color: #2a2929 !important;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.btn-file {
+  background: #fff !important;
+  border: none !important;
+  margin-top: 5px;
+}
+
+.btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-height: 90%;
+  text-align: right;
+  opacity: 0;
+  outline: none;
+  cursor: pointer;
+  display: block;
+  font-size: 70px;
+  z-index: 1;
+}
+
+.upload-description {
+  color: rgb(219, 216, 216);
+  font-size: 15.5px !important;
+  padding: 1px;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+i {
+  padding-right: 10px;
+}
+
+.icon {
+  background-image: url(./css/images/icon.png) !important;
+  height: 125px;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  margin-top: 30px !important;
+  background-position-x: center;
+  filter: drop-shadow(0.1rem 0.1rem rgb(255, 255, 255));
+}
+
+.download-btn {
+  margin-top: 35px !important;
+}
+
+.btn-primary {
+  background-color: #E1EBEE !important;
+  text-transform: uppercase;
+  font-weight: 600 !important;
+  color: #131313 !important;
+  border: 0.5px solid #06258b78 !important;
+  padding: 8px !important;
+  margin-bottom: 10px !important;
+}
+
+.fa-quinscape {
+  color: #013979 !important;
+  text-shadow: 2px 2px #06258b78;
+}
+
+/*# sourceMappingURL=styles.scss.map */
