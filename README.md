@@ -1,6 +1,6 @@
 
-# Poket Book
-When I think of the game hangman, I get really uncomfortable thinking about hanging somebody - even if it is a game! That's why I decided to do my own little twist of the classic hangman game, called Hacker_Man.
+# Hacker_Man
+When I think of the game _hangman_, I get really uncomfortable thinking about hanging somebody - even if it is a game! That's why I decided to do my own little twist of the classic hangman game, called Hacker_Man.
 
 With Hacker_Man, you need to guess the correct string of word(s) in order to unlock the secret key - yes it works, and you will be shown some sensitive data upon success! If you don't succeed, instead of hanging someone, you get locked out of the "system" and told to try again. This game was inspired by Watch Dogs and Cyberpunk themes.
 
@@ -8,19 +8,23 @@ In this project, instead of doing all the coding for the game on a singular app.
 
 A special thanks to the creators of the AsherPunk-Font, Consola-Font, Hacked-Kerx Fonts, and the background images.
 
-Day four (4) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
+Day four (which took two days!) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, HTML5, CSS3, SCSS and Bootstrap.
 
 ## Video Preview
-
+https://user-images.githubusercontent.com/87696858/130610232-1b7ae2e2-a7bf-4711-a71b-ae6131c7de04.mp4
 
 ## Main Display
-
+![screencapture-localhost-3000-2021-08-24-13_35_06](https://user-images.githubusercontent.com/87696858/130610494-9f23ed16-9442-4cd8-856b-39d637888b5c.png)
 
 ## Upon Success
+![screencapture-localhost-3000-2021-08-24-13_35_35 (1)](https://user-images.githubusercontent.com/87696858/130610361-6b1ceee4-4368-448d-ace1-3ab41215f412.png)
+![screencapture-localhost-3000-2021-08-24-13_36_49](https://user-images.githubusercontent.com/87696858/130610331-78e0b64c-76ac-4306-b306-d9582b3e9496.png)
 
 ## Upon Failure
+![screencapture-localhost-3000-2021-08-24-13_35_35 (1)](https://user-images.githubusercontent.com/87696858/130610361-6b1ceee4-4368-448d-ace1-3ab41215f412.png)
+![screencapture-localhost-3000-2021-08-24-13_35_56](https://user-images.githubusercontent.com/87696858/130610318-15798604-3efc-4cea-ab02-86d5307585d4.png)
 
-
+________________________________________________________________________________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
