@@ -13,6 +13,10 @@ Day four (which took two days!) of trying to code in React on my own was a succe
 ### FUTURE NOTE:
 When I have time, I will make this app more responsive to different device sizes. Currently, it is only responsive on large devices such as a desktop screen.
 
+## 💣 Play Via Demo Link  💣 ## 
+[Hackerman Game](hackermangame.herokuapp.com/)
+#### **Please note that if the app does not load or gives an error, just reload the page and Heroku will work again. Sorry for any inconveniece :) ####
+
 ## Video Preview
 https://user-images.githubusercontent.com/87696858/130610232-1b7ae2e2-a7bf-4711-a71b-ae6131c7de04.mp4
 
